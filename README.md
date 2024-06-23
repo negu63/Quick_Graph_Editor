@@ -11,6 +11,9 @@ Open the graph editor in a new window with one click in Blender.
 ```
 Click 'Quick_Graph_Editor.py' > Click 'Download raw file' button
 ```
+This is **Download raw file** button
+
+![image](https://github.com/negu63/Quick_Graph_Editor/assets/86910140/92574f8b-b1ca-4c99-b4e3-3208b47c5b22)
 
 ### 2. Install add-on
 
