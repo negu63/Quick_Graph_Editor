@@ -20,3 +20,7 @@ This is **Download raw file** button
 ```
 Edit > Preferences > Install > Quick_Graph_Editor.py
 ```
+
+## Version
+
+Tested in Blender 4.1
